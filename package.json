@@ -1,0 +1,39 @@
+{
+  "name": "restify-log4js",
+  "version": "0.0.1",
+  "description": "Middleware of restify to work with log4js.",
+  "keywords": [
+    "log4j",
+    "restify"
+  ],
+  "main": "./lib/index",
+  "author": {
+    "name": "Xuanye wang",
+    "email": "xuanye.wan@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuanye/restify-log4js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xuanye/restify-log4js/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "vows"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "log4js": "~0.6.9"
+  },
+  "browser": {
+    "os": false
+  },
+ "readmeFilename": "README.md",
+  "_id": "restify-log4js@0.1.0",
+  "_from": "restify-log4js@0.1.0"
+}
