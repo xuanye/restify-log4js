@@ -5,7 +5,9 @@ restify-log4js is a middleware of [restify](http://mcavage.me/node-restify/) to 
 
 ## Install   
 
-`npm install restify-log4js`
+```
+npm install restify-log4js
+```
 
 ## Usage
 
